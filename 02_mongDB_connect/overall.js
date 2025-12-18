@@ -144,4 +144,14 @@ app.listen(port, () => {
 }
 
 
+note : 
+
+=> for dealing with mongodb have 3 steps
+1. create schema, 2. create model , 3. connection with mongoose
+
+in mongoose type
+show dbs, show collections, use collection_name(e.g - Youtube-app-1), db.users.find({}) 
+  
+
+
 */
